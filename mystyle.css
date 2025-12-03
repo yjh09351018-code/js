@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    padding: 70px;
+    text-align: center;
+}
+
+li{
+    margin: 5px;
+}
+
+
+button{
+    margin: 5px;
+}
